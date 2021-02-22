@@ -1,0 +1,1 @@
+print(farm_2.difference(farm_1));
